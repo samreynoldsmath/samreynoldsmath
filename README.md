@@ -2,7 +2,9 @@
 
 Hi, I'm Sam. I am a PhD student at Portland State University studying computational mathematics. 
 
-My primary area of focus is finite element methods for partial differential equations. I am currently developing 
+My primary area of focus is finite element methods for partial differential equations. 
+In collaboration with my advisor [Jeffrey Ovall](https://sites.google.com/pdx.edu/jeffovall/home),
+I am currently developing 
 [PuncturedFEM](https://github.com/samreynoldsmath/PuncturedFEM) which allows for curvilinear mesh cells with holes.
 
 My other interests include numerical optimization, graph theory, and dynamical systems. 
