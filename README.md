@@ -8,8 +8,9 @@ I am currently developing
 [PuncturedFEM](https://github.com/samreynoldsmath/PuncturedFEM) which allows for curvilinear mesh cells with holes.
 
 My other interests include numerical optimization, graph theory, and dynamical systems. 
-Current side projects are [shape optimization](https://en.wikipedia.org/wiki/Shape_optimization) (especially for fluids), 
-[minimum rank](https://en.wikipedia.org/wiki/Minimum_rank_of_a_graph) problems,
-and [home primes](https://en.wikipedia.org/wiki/Home_prime).
+Current side projects are 
+[shape optimization](https://en.wikipedia.org/wiki/Shape_optimization), 
+[minimum rank problems](https://github.com/samreynoldsmath/msr),
+and [home primes](https://github.com/samreynoldsmath/homeprime).
 
-My current favorite langauge is Python; also familiar with C, C++, and MATLAB. One day I would like to learn Julia and Rust.
+I am most familiar with Python, C, C++, and MATLAB. One day I would like to learn Julia and Rust.
